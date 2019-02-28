@@ -1,0 +1,4 @@
+urgencyValue, descValue
+"//*[@class='select2-result-label' and contains(text(),'High')]" , "Service Portal Issue - High"
+"//*[@class='select2-result-label' and contains(text(),'Medium')]" , "Service Portal Issue - Medium"
+"//*[@class='select2-result-label' and contains(text(),'Low')]" , "Service Portal Issue - Low"

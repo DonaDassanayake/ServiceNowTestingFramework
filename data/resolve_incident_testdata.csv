@@ -1,0 +1,3 @@
+caller,state,shortDesc,resCode,resNote,btnLayer
+"//tr[@id='row_sys_user_0a826bf03710200044e0bfc8bcbe5d7a']//td[3]","//option[contains(text(), 'New')]","Network Issue","//option[@value='Not Solved (Too Costly)']","Resolved by admin","bottom"
+"//tr[@id='row_sys_user_0a826bf03710200044e0bfc8bcbe5d7a']//td[3]","//option[contains(text(), 'New')]","Email issue","//option[@value='Not Solved (Too Costly)']","Resolved by admin","top"

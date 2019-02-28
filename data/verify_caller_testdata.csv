@@ -1,0 +1,2 @@
+stateValue, shortDescValue
+"//option[contains(text(), 'New')]", "Laptop is broken"

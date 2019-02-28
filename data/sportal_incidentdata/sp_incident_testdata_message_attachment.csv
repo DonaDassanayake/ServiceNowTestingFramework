@@ -1,0 +1,2 @@
+urgencyValue, descValue, message, attachmentLoc
+"//*[@class='select2-result-label' and contains(text(),'Medium')]", "Service Portal Issue - High", "Checked by System Admin","C:/Users/gayani/PycharmProjects/ServiceNowTestingFramework/attachement/servicenow.png""

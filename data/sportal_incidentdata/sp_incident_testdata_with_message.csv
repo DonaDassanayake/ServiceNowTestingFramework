@@ -1,0 +1,2 @@
+urgencyValue, descValue, message
+"//*[@class='select2-result-label' and contains(text(),'High')]", "Service Portal Issue - High", "Checked by System Admin"

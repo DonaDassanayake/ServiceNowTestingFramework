@@ -1,0 +1,5 @@
+incNumValue, callerValue, stateValue, shortDescValue
+TESTNUMBER,//tr[@id='row_sys_user_0a826bf03710200044e0bfc8bcbe5d7a']//td[3],"//option[contains(text(),'New')]",PC Issue
+123456,//tr[@id='row_sys_user_0a826bf03710200044e0bfc8bcbe5d7a']//td[3],"//option[contains(text(),'New')]",PC Issue
+123TEST,//tr[@id='row_sys_user_0a826bf03710200044e0bfc8bcbe5d7a']//td[3],"//option[contains(text(),'New')]",PC Issue
+INC0010235,//tr[@id='row_sys_user_0a826bf03710200044e0bfc8bcbe5d7a']//td[3],"//option[contains(text(),'New')]",PC Issue
